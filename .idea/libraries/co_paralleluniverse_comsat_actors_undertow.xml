@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="co.paralleluniverse.comsat.actors.undertow" type="repository">
+    <properties maven-id="co.paralleluniverse:comsat-actors-undertow:0.5.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/comsat-actors-undertow-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/undertow-core-1.2.10.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-logging-3.1.4.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xnio-api-3.3.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xnio-nio-3.3.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/comsat-actors-api-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/quasar-actors-0.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/metrics-core-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-0.6.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
